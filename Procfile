@@ -1,0 +1,1 @@
+evn gunicorn wildberriesBot:app
