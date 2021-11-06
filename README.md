@@ -1,4 +1,8 @@
 # TelegrammBotWildberries
+
+[link](https://t.me/WildberriesPythonBot)
+
+
 supports commands:
 
 1. `/get_brand 'article'` – the argument indicates the article, the bot sends a message with the product with the brand name, according to the specified article.
