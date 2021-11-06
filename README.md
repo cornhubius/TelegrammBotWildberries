@@ -10,8 +10,9 @@ supports commands:
 **How to run**
 1. Create your bot. [How?](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
 2. Clone repo `git clone https://github.com/cornhubius/TelegrammBotWildberries`
-3. install requirements `pip install -r requirements.txt`
-4. create `.env` file with `TOKEN="YourToken"` or change: `updater = Updater("YourToken", use_context=True)` in `wildberriesBot.py`
-5. `python wildberriesBot.py `
-6. Done. Now you can send article
+3. Create venv `pythom -m venv env`
+4. install requirements `pip install -r requirements.txt`
+5. create `.env` file with `TOKEN="YourToken"` or change: `updater = Updater("YourToken", use_context=True)` in `wildberriesBot.py`
+6. `python wildberriesBot.py `
+7. Done. Now you can send article
 
