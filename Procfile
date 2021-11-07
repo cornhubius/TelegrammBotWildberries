@@ -1,1 +1,1 @@
-worker: python %not_web_app%.py // wildberriesBot.py
+worker: python wildberriesBot.py
