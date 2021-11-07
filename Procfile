@@ -1,1 +1,1 @@
-evn gunicorn wildberriesBot:app
+worker: python %not_web_app%.py // wildberriesBot.py
