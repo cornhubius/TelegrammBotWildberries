@@ -1,4 +1,4 @@
-# TelegrammBotWildberries
+# Telegram bot for wildberries
 
 [link](https://t.me/WildberriesPythonBot)
 
